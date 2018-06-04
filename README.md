@@ -15,7 +15,7 @@ $ cd node-image && npm install
 $ node index.js
 ```
 
-打开 [http://localhost:8888/start](http://localhost:8888/start) 即可开到效果。
+打开 [http://localhost:8888/start](http://localhost:8888/start) 即可看到效果。
 
 有兴趣的可以看看这个古老的[入门教程](https://www.nodebeginner.org/index-zh-cn.html)。
 
